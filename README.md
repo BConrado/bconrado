@@ -1,5 +1,5 @@
 ## Hi! I'm Bruno Conrado and I'm a Software Engineer! 👋 👨🏻‍💻 👾
-## I'm Graduated at (BSc) Computer Science
+## I'm Graduated in (BSc) Computer Science
 ### Welcome to my GitHub Profile!
 
 
