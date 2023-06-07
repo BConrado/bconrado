@@ -1,8 +1,8 @@
 ## Hi! I'm Bruno Conrado and I'm a Software Engineer! 👋 👨🏻‍💻 👾 🎮
-## Pationate about Games and Game Development!
-## I'm Graduated in (BSc) Computer Science
-### Welcome to my GitHub repository!
-
+### A little about me:
+  - I am completely pationate about Games and Game Development.
+  - I'm Graduated in (BSc) Computer Science.
+  - Currently working for SAP as a Software Development Specialist.
 
 <div align="center">
   <a href="https://github.com/BConrado">
