@@ -1,6 +1,7 @@
 ## Hi! I'm Bruno Conrado and I'm a Software Engineer! 👋 👨🏻‍💻 👾 🎮
+## Pationate about Games and Game Development!
 ## I'm Graduated in (BSc) Computer Science
-### Welcome to my GitHub Profile!
+### Welcome to my GitHub repository!
 
 
 <div align="center">
