@@ -1,8 +1,15 @@
 ## Hi! I'm Bruno Conrado and I'm a Software Engineer! 👋 👨🏻‍💻 👾 🎮
 ### A little about me:
+  - Experienced Cloud Software Engineer.
   - I am completely pationate about Games and Game Development.
   - I'm Graduated in (BSc) Computer Science.
   - Currently working for SAP as a Software Development Specialist.
+
+### My Experience
+  - Node.js -> JavaScript/TypeScript 
+  - C# -> Unity and .NET
+  - React/Next.js -> TypeScript
+    
 <div style="display: inline_block"><br>
           
   <img align="center" alt="Conrado-c"      height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-original.svg" />
