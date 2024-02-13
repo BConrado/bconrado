@@ -5,10 +5,11 @@
   - I'm Graduated in (BSc) Computer Science.
   - Currently working for SAP as a Software Development Specialist.
 
-### My Experience
+### My Work Experience
   - Node.js -> JavaScript/TypeScript 
   - C# -> Unity and .NET
   - React/Next.js -> TypeScript
+  - Vue.js -> JavaScript
     
 <div style="display: inline_block"><br>
           
